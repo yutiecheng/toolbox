@@ -7,7 +7,18 @@
 1. draw.io
 2. Dia
 3. processon
+4. graphviz
+5. xmind
 
 ## 代码编写
-1. intelliJ IDEA COMMUNITY
+1. intelliJ idea community
 2. vscode
+
+## 接口开发
+1. postman
+
+## 容器
+1. docker
+
+## 持续集成
+1. jenkins
