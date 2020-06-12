@@ -5,7 +5,7 @@
 
 ## 画图
 1. draw.io
-2. Dia
+2. dia
 3. processon
 4. graphviz
 5. xmind
@@ -24,4 +24,8 @@
 1. jenkins
 
 ## 数据库管理
-1. DBeaver
+1. dbeaver
+
+## 远程连接
+1. putty
+2. smartty
